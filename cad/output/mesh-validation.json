@@ -1,0 +1,32 @@
+{
+  "front-tub.stl": {
+    "triangles": 2594,
+    "degenerateTriangles": 0,
+    "openEdges": 0,
+    "nonManifoldEdges": 0
+  },
+  "rear-tray.stl": {
+    "triangles": 1726,
+    "degenerateTriangles": 0,
+    "openEdges": 0,
+    "nonManifoldEdges": 0
+  },
+  "rear-lid.stl": {
+    "triangles": 1648,
+    "degenerateTriangles": 0,
+    "openEdges": 0,
+    "nonManifoldEdges": 0
+  },
+  "fit-coupon.stl": {
+    "triangles": 832,
+    "degenerateTriangles": 0,
+    "openEdges": 0,
+    "nonManifoldEdges": 0
+  },
+  "wall-dock.stl": {
+    "triangles": 1832,
+    "degenerateTriangles": 0,
+    "openEdges": 0,
+    "nonManifoldEdges": 0
+  }
+}

@@ -1,0 +1,15 @@
+qty,item,specification,size mm,note
+1,Guition ESP32-S3-4848S040 display,"4 inch 480x480 in silver housing; stock rear cover stays on; IP5306 charger on board",85x85x10,
+1,LiPo 505573,"3.7 V 3000 mAh cell without protection; mounted upright behind the display",70x52x5 + tabs,
+1,HXYP-1S-30T8 BMS,"1S protection between the cell and the display BAT socket",30x17x4,
+1,MX1.25 2P plug with leads,"into the display BAT socket; leads cut to 50/55 mm",1.25 mm pitch,check pitch against the socket
+4,Neodymium magnet,N38 rectangular,30x10x2,
+4,M2 x 8 countersunk self-tapping screw,lid into the corner columns,M2,
+1,EVA or PORON foam 1 mm self-adhesive,"display corners, battery, BMS boss, 4 lid posts",~60x60 total,
+1,Double-sided foam tape 0.3 mm,battery onto the stock cover,50x60,
+1,3M VHB 0.8 mm,BMS onto the stock cover,15x25,
+1,Silicone wire 18 AWG,battery leads W1/W2 cut to 80/85 mm,OD 2.2,
+4,DIN 125 M4 steel washer,zinc plated,OD ~9 x 1,captured in the wall-dock rails
+2,Removable water-resistant adhesive strip,e.g. 3M Command Bath/Outdoor,medium,wall-dock to the wall
+1,PETG or ASA filament,"front-tub, rear-tray, rear-lid, wall-dock, fit-coupon",1.75 mm,~57 g (61 g with coupon)
+1,Kapton or PET tape and heat-shrink,insulate solder joints and battery tabs,assorted,do not pot or compress the LiPo

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+cad/output/assembly/
+cad/output/assembly-preview.stl
+node_modules/
+package-lock.json
